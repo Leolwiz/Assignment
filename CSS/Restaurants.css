@@ -1,1 +1,26 @@
+th,
+td,
+table {
+    background-color: blanchedalmond;
+    border: 2px solid darkcyan;
+    padding: 10px;
+    border-collapse: collapse;
+}
 
+h1 {
+    color: brown;
+}
+
+.contact {
+    color: rgb(46, 165, 42);
+    cursor: pointer;
+}
+
+.menu {
+    color: rgb(233, 219, 30);
+    cursor: pointer;
+}
+
+a :hover {
+    color: blueviolet;
+}
